@@ -1,0 +1,3 @@
+[submodule "external/awesome-ai-research-writing"]
+	path = external/awesome-ai-research-writing
+	url = https://github.com/Leey21/awesome-ai-research-writing.git
